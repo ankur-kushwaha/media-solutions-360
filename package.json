@@ -1,0 +1,22 @@
+{
+  "name": "media-solutions-360",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur-kushwaha/media-solutions-360.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankur-kushwaha/media-solutions-360/issues"
+  },
+  "homepage": "https://github.com/ankur-kushwaha/media-solutions-360#readme",
+  "devDependencies": {
+    "firebase": "^9.8.4"
+  }
+}
